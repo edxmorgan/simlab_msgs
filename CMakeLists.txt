@@ -11,6 +11,7 @@ set(action_files
 )
 
 set(msg_files
+  "msg/ControllerPerformance.msg"
   "msg/ReferenceTargets.msg"
 )
 
